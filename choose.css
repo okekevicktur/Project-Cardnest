@@ -1,0 +1,62 @@
+@font-face {
+    font-family: Roboto;
+    src: url(./fonts/Roboto-VariableFont_wdth\,wght.ttf);
+}
+.container-1{
+    width: 300px;
+    height: 500px;
+    background-color: #B8C0B9;
+    margin-left: 490px;
+    margin-top: 50px;
+    padding-left: 40px;
+    padding-top: 50px;
+    padding-right: 40px;
+    padding-bottom: 600px; 
+    
+}
+.thing-1{
+    float: right;
+}
+.text-1{
+    font-family: Roboto;
+font-size: 20px;
+}
+.text-2{
+    font-family: Roboto;
+font-size: 20px;
+}
+.thing-2{
+    border-bottom: #fff 10px;
+}
+.text-3{
+    font-family: Roboto;
+font-size: 14px;
+}
+.text-4{
+   font-family: Roboto;
+font-size: 14px; 
+}
+.text-5{
+    font-family: Roboto;
+font-size: 14px;
+}
+.text-6{
+    font-family: Roboto;
+font-size: 14px;
+}
+.text-7{
+    font-family: Roboto;
+font-size: 14px;
+}
+.text-8{
+  font-family: Roboto;
+font-size: 14px;  
+}
+.text-9{
+    font-family: Roboto;
+font-size: 14px;
+}
+.text-10{
+    font-family: Roboto;
+font-size: 14px;
+}
